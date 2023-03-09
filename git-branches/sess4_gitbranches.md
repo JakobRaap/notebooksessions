@@ -18,3 +18,7 @@ _Here is a **list** of all the commands needed for wirking with git branches_
 ### Visual example of a git branch
 
 ![img not found](https://assets-global.website-files.com/622642781cd7e96ac1f66807/62d0ef2b68ea1652c722e7a6_image-10.png)
+
+### Here is a helpful link explaining git-branches in a nutshell
+
+*https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell*
