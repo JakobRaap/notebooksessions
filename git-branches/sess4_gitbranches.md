@@ -1,4 +1,4 @@
-_Here is a **list** of all the commands needed for wirking with git branches_
+_Here is a **list** of all the commands needed for working with git branches_
 
 # command functionality
 
